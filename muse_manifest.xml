@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587195889385">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587197314064">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
-    <file name="master_hyperbass-records.css" crc="527897112" ref="index"/>
-    <file name="nomq_preview_master_hyperbass-records.css" crc="65527139" ref="index"/>
-    <file name="master_hyperbass-records-nav.css" crc="116814430" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
+    <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
+    <file name="nomq_preview_master_hyperbass-records.css" crc="3824530138" ref="index"/>
+    <file name="master_hyperbass-records-nav.css" crc="99820968" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3824530138" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
-    <file name="audio.css" crc="64800785" ref="audio"/>
-    <file name="nomq_audio.css" crc="347626531" ref="audio"/>
-    <file name="index.css" crc="3854711119" ref="index"/>
-    <file name="nomq_index.css" crc="3853135449" ref="index"/>
+    <file name="audio.css" crc="4174234134" ref="audio"/>
+    <file name="nomq_audio.css" crc="3863288429" ref="audio"/>
+    <file name="index.css" crc="501209014" ref="index"/>
+    <file name="nomq_index.css" crc="112126225" ref="index"/>
     <file name="v-rave.css" crc="4247388541" ref="v-rave"/>
     <file name="nomq_v-rave.css" crc="4119652861" ref="v-rave"/>
     <file name="video.css" crc="3815927735" ref="video"/>
@@ -532,7 +532,7 @@
     <file name="contact-u1879-r4.png" crc="4005025120" ref="index"/>
     <file name="contact-u1879-m4.png" crc="4196564381" ref="index"/>
     <file name="contact-u1879-a4.png" crc="493670170" ref="index"/>
-    <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy"/>
+    <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy:audio"/>
     <file name="home-u34137.png" crc="496599937" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-r.png" crc="471718754" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-m.png" crc="219459819" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
@@ -641,7 +641,7 @@
     <file name="u47881-45.png" crc="72443790" ref="members-area"/>
     <file name="members-area-access-zone-favicon.ico" crc="217633453" ref="members-area-access-zone"/>
   </folder>
-  <file name="index.html" crc="84363685" seo="true" mt="1587195822185" redirect="true"/>
+  <file name="index.html" crc="286783022" seo="true" mt="1587197267523" redirect="true"/>
   <file name="buy.html" crc="4156311109" seo="true" mt="1587193595946" redirect="true"/>
   <file name="releases.html" crc="3984294409" seo="true" mt="1586034493093" redirect="true"/>
   <file name="video.html" crc="4114061977" seo="true" mt="1587194617248" redirect="true"/>
@@ -650,5 +650,5 @@
   <file name="v-rave.html" crc="93963312" seo="true" mt="1587195691446" redirect="true"/>
   <file name="members-area.html" crc="23916680" seo="true" mt="1586034493093" redirect="true"/>
   <file name="members-area-access-zone.html" crc="195011810" seo="true" mt="1586034493093" redirect="true"/>
-  <file name="audio.html" crc="4229156133" seo="true" mt="1587193911270" redirect="true"/>
+  <file name="audio.html" crc="4013876881" seo="true" mt="1587197105897" redirect="true"/>
 </manifest>
