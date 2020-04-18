@@ -22,7 +22,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperbassrecords.com/irl-shows.html</loc>
+    <loc>http://hyperbassrecords.com/stream.html</loc>
     <lastmod>2020-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -58,25 +58,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperbassrecords.com/members-area.html</loc>
-    <lastmod>2020-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperbassrecords.com/images/logow.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperbassrecords.com/stream.html</loc>
-    <lastmod>2020-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperbassrecords.com/images/logow.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperbassrecords.com/v-rave.html</loc>
+    <loc>http://hyperbassrecords.com/irl-shows.html</loc>
     <lastmod>2020-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -94,12 +76,51 @@
     </image:image>
   </url>
   <url>
+    <loc>http://hyperbassrecords.com/v-rave.html</loc>
+    <lastmod>2020-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/logow.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperbassrecords.com/members-area.html</loc>
+    <lastmod>2020-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/logow.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://hyperbassrecords.com/audio.html</loc>
     <lastmod>2020-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://hyperbassrecords.com/images/logow.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperbassrecords.com/image.html</loc>
+    <lastmod>2020-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/logow.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/background556x371.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/background300x200.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperbassrecords.com/images/background272x181.jpg</image:loc>
     </image:image>
   </url>
   <url>
