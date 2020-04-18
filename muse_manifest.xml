@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587204590489">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587205218930">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="4208957994" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
     <file name="audio.css" crc="3933314692" ref="audio"/>
     <file name="nomq_audio.css" crc="316523587" ref="audio"/>
-    <file name="index.css" crc="3881342829" ref="index"/>
-    <file name="nomq_index.css" crc="310438190" ref="index"/>
+    <file name="index.css" crc="261457161" ref="index"/>
+    <file name="nomq_index.css" crc="3962137289" ref="index"/>
     <file name="v-rave.css" crc="52404823" ref="v-rave"/>
     <file name="nomq_v-rave.css" crc="397829078" ref="v-rave"/>
     <file name="video.css" crc="404603206" ref="video"/>
@@ -175,7 +175,7 @@
     <file name="twitch-u1079.png" crc="33043675" ref="index"/>
     <file name="twitch-u1079-r.png" crc="148657881" ref="index"/>
     <file name="twitch-u1079-m.png" crc="4061138465" ref="index"/>
-    <file name="home-u1616.png" crc="4266753247" ref="index"/>
+    <file name="home-u1616.png" crc="4290485173" ref="index"/>
     <file name="home-u1616-r.png" crc="3962134568" ref="index"/>
     <file name="home-u1616-m.png" crc="436622518" ref="index"/>
     <file name="home-u1616-a.png" crc="4215285947" ref="index"/>
@@ -200,10 +200,10 @@
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
@@ -213,10 +213,10 @@
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
@@ -647,7 +647,7 @@
       <caption webpage="image" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4245809688" seo="true" mt="1587199691153" redirect="true"/>
+  <file name="index.html" crc="4262722720" seo="true" mt="1587205179696" redirect="true"/>
   <file name="buy.html" crc="4223819634" seo="true" mt="1587204261569" redirect="true"/>
   <file name="releases.html" crc="3904384475" seo="true" mt="1587204261569" redirect="true"/>
   <file name="video.html" crc="4080549294" seo="true" mt="1587204261569" redirect="true"/>
