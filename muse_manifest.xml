@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587199435375">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587199734221">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
@@ -629,7 +629,7 @@
     <file name="u55868-43.png" crc="159242022" ref="v-rave"/>
     <file name="u55868-44.png" crc="159242022" ref="v-rave"/>
   </folder>
-  <file name="index.html" crc="288842568" seo="true" mt="1587197627238" redirect="true"/>
+  <file name="index.html" crc="4245809688" seo="true" mt="1587199691153" redirect="true"/>
   <file name="buy.html" crc="239412790" seo="true" mt="1587199135975" redirect="true"/>
   <file name="releases.html" crc="3973483992" seo="true" mt="1587199135975" redirect="true"/>
   <file name="video.html" crc="3842767742" seo="true" mt="1587199135975" redirect="true"/>
