@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hyperbassrecords.com
+Token: c6d29d994b35c70be3fd0ac58e673e0d3cf868e6787bf45cca96526e960ac860
