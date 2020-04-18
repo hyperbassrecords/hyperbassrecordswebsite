@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587197314064">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587197715415">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3824530138" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
     <file name="audio.css" crc="4174234134" ref="audio"/>
     <file name="nomq_audio.css" crc="3863288429" ref="audio"/>
-    <file name="index.css" crc="501209014" ref="index"/>
-    <file name="nomq_index.css" crc="112126225" ref="index"/>
+    <file name="index.css" crc="3881342829" ref="index"/>
+    <file name="nomq_index.css" crc="310438190" ref="index"/>
     <file name="v-rave.css" crc="4247388541" ref="v-rave"/>
     <file name="nomq_v-rave.css" crc="4119652861" ref="v-rave"/>
     <file name="video.css" crc="3815927735" ref="video"/>
@@ -111,12 +111,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
-    <file name="u28518.png" crc="412583654" ref="index"/>
-    <file name="u28518-r.png" crc="3942741906" ref="index"/>
-    <file name="u28518-a.png" crc="399964680" ref="index"/>
-    <file name="u1365.png" crc="16141032" ref="index"/>
-    <file name="u1365-r.png" crc="3950011076" ref="index"/>
-    <file name="u1365-a.png" crc="467041802" ref="index"/>
+    <file name="u1365.png" crc="218893158" ref="index"/>
+    <file name="u1365-r.png" crc="4199257818" ref="index"/>
+    <file name="u1365-a.png" crc="4213720585" ref="index"/>
     <file name="vr cover.jpg" crc="4001963962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -232,12 +229,9 @@
       <caption webpage="members-area" alt=""/>
       <caption webpage="members-area" alt=""/>
     </file>
-    <file name="u285182.png" crc="41269185" ref="index"/>
-    <file name="u28518-r2.png" crc="281437128" ref="index"/>
-    <file name="u28518-a2.png" crc="3930516624" ref="index"/>
-    <file name="u13652.png" crc="278907562" ref="index"/>
-    <file name="u1365-r2.png" crc="381894042" ref="index"/>
-    <file name="u1365-a2.png" crc="166129307" ref="index"/>
+    <file name="u13652.png" crc="3882461285" ref="index"/>
+    <file name="u1365-r2.png" crc="125227753" ref="index"/>
+    <file name="u1365-a2.png" crc="244757814" ref="index"/>
     <file name="u77232.png" crc="3964870013" ref="index"/>
     <file name="u7723-r2.png" crc="3758859493" ref="index"/>
     <file name="u7723-a2.png" crc="352757972" ref="index"/>
@@ -331,12 +325,9 @@
     <file name="contact-u1879-r2.png" crc="182979829" ref="index"/>
     <file name="contact-u1879-m2.png" crc="404201409" ref="index"/>
     <file name="contact-u1879-a2.png" crc="295980831" ref="index"/>
-    <file name="u285183.png" crc="3860705411" ref="index"/>
-    <file name="u28518-r3.png" crc="3987628956" ref="index"/>
-    <file name="u28518-a3.png" crc="3906876159" ref="index"/>
-    <file name="u13653.png" crc="3954923693" ref="index"/>
-    <file name="u1365-r3.png" crc="13655488" ref="index"/>
-    <file name="u1365-a3.png" crc="301391395" ref="index"/>
+    <file name="u13653.png" crc="3815221465" ref="index"/>
+    <file name="u1365-r3.png" crc="23670840" ref="index"/>
+    <file name="u1365-a3.png" crc="3893965439" ref="index"/>
     <file name="u77233.png" crc="3964870013" ref="index"/>
     <file name="u7723-r3.png" crc="3758859493" ref="index"/>
     <file name="u7723-a3.png" crc="352757972" ref="index"/>
@@ -433,12 +424,9 @@
     <file name="layout home-crop-u702.png" crc="4104007908" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u285184.png" crc="282530413" ref="index"/>
-    <file name="u28518-r4.png" crc="449597691" ref="index"/>
-    <file name="u28518-a4.png" crc="3799238817" ref="index"/>
-    <file name="u13654.png" crc="3776330032" ref="index"/>
-    <file name="u1365-r4.png" crc="514655698" ref="index"/>
-    <file name="u1365-a4.png" crc="4293097249" ref="index"/>
+    <file name="u13654.png" crc="230588758" ref="index"/>
+    <file name="u1365-r4.png" crc="531586425" ref="index"/>
+    <file name="u1365-a4.png" crc="60068910" ref="index"/>
     <file name="u77234.png" crc="4128639782" ref="index"/>
     <file name="u7723-r4.png" crc="21646112" ref="index"/>
     <file name="u7723-a4.png" crc="9956786" ref="index"/>
@@ -641,7 +629,7 @@
     <file name="u47881-45.png" crc="72443790" ref="members-area"/>
     <file name="members-area-access-zone-favicon.ico" crc="217633453" ref="members-area-access-zone"/>
   </folder>
-  <file name="index.html" crc="286783022" seo="true" mt="1587197267523" redirect="true"/>
+  <file name="index.html" crc="288842568" seo="true" mt="1587197627238" redirect="true"/>
   <file name="buy.html" crc="4156311109" seo="true" mt="1587193595946" redirect="true"/>
   <file name="releases.html" crc="3984294409" seo="true" mt="1586034493093" redirect="true"/>
   <file name="video.html" crc="4114061977" seo="true" mt="1587194617248" redirect="true"/>
