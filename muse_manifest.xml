@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587199237116">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587199435375">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
     <file name="nomq_preview_master_hyperbass-records.css" crc="3824530138" ref="index"/>
-    <file name="master_hyperbass-records-nav.css" crc="3793006866" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
+    <file name="master_hyperbass-records-nav.css" crc="40872125" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3824530138" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
     <file name="audio.css" crc="418757888" ref="audio"/>
     <file name="nomq_audio.css" crc="453971310" ref="audio"/>
@@ -42,7 +42,7 @@
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:stream:v-rave:members-area:members-area-access-zone:audio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:stream:members-area:members-area-access-zone:audio"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="require.js" crc="4157109226" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="members-area"/>
@@ -520,7 +520,7 @@
     <file name="contact-u1879-r4.png" crc="4005025120" ref="index"/>
     <file name="contact-u1879-m4.png" crc="4196564381" ref="index"/>
     <file name="contact-u1879-a4.png" crc="493670170" ref="index"/>
-    <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy"/>
+    <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy:v-rave"/>
     <file name="home-u34137.png" crc="4244388105" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-r.png" crc="471718754" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-m.png" crc="219459819" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
@@ -613,13 +613,9 @@
     <file name="u39657-44.png" crc="32685881" ref="stream"/>
     <file name="u39734-44.png" crc="204969558" ref="stream"/>
     <file name="u55447-9.png" crc="329764547" ref="v-rave"/>
-    <file name="u55868-4-a.png" crc="159242022" ref="v-rave"/>
     <file name="u55447-92.png" crc="349168014" ref="v-rave"/>
-    <file name="u55868-4-a2.png" crc="159242022" ref="v-rave"/>
     <file name="u55447-93.png" crc="8407861" ref="v-rave"/>
-    <file name="u55868-4-a3.png" crc="159242022" ref="v-rave"/>
     <file name="u55447-94.png" crc="104265011" ref="v-rave"/>
-    <file name="u55868-4-a4.png" crc="159242022" ref="v-rave"/>
     <file name="members-area-favicon.ico" crc="217633453" ref="members-area"/>
     <file name="form2-u47867-fr.jpg" crc="230147525" ref="members-area"/>
     <file name="u47881-4.png" crc="72443790" ref="members-area"/>
@@ -628,6 +624,10 @@
     <file name="u47881-44.png" crc="72443790" ref="members-area"/>
     <file name="u47881-45.png" crc="72443790" ref="members-area"/>
     <file name="members-area-access-zone-favicon.ico" crc="217633453" ref="members-area-access-zone"/>
+    <file name="u55868-4.png" crc="159242022" ref="v-rave"/>
+    <file name="u55868-42.png" crc="159242022" ref="v-rave"/>
+    <file name="u55868-43.png" crc="159242022" ref="v-rave"/>
+    <file name="u55868-44.png" crc="159242022" ref="v-rave"/>
   </folder>
   <file name="index.html" crc="288842568" seo="true" mt="1587197627238" redirect="true"/>
   <file name="buy.html" crc="239412790" seo="true" mt="1587199135975" redirect="true"/>
@@ -635,7 +635,7 @@
   <file name="video.html" crc="3842767742" seo="true" mt="1587199135975" redirect="true"/>
   <file name="irl-shows.html" crc="4214645610" seo="true" mt="1587199135975" redirect="true"/>
   <file name="stream.html" crc="361370147" seo="true" mt="1587199135975" redirect="true"/>
-  <file name="v-rave.html" crc="4046700557" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="v-rave.html" crc="121917216" seo="true" mt="1587199415884" redirect="true"/>
   <file name="members-area.html" crc="99171257" seo="true" mt="1587199135975" redirect="true"/>
   <file name="members-area-access-zone.html" crc="530371138" seo="true" mt="1587199135975" redirect="true"/>
   <file name="audio.html" crc="201404631" seo="true" mt="1587199135975" redirect="true"/>
