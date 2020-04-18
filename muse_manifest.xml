@@ -1,30 +1,30 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587197715415">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1587199237116">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
     <file name="nomq_preview_master_hyperbass-records.css" crc="3824530138" ref="index"/>
-    <file name="master_hyperbass-records-nav.css" crc="99820968" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
+    <file name="master_hyperbass-records-nav.css" crc="3793006866" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3824530138" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream"/>
-    <file name="audio.css" crc="4174234134" ref="audio"/>
-    <file name="nomq_audio.css" crc="3863288429" ref="audio"/>
+    <file name="audio.css" crc="418757888" ref="audio"/>
+    <file name="nomq_audio.css" crc="453971310" ref="audio"/>
     <file name="index.css" crc="3881342829" ref="index"/>
     <file name="nomq_index.css" crc="310438190" ref="index"/>
-    <file name="v-rave.css" crc="4247388541" ref="v-rave"/>
-    <file name="nomq_v-rave.css" crc="4119652861" ref="v-rave"/>
-    <file name="video.css" crc="3815927735" ref="video"/>
-    <file name="nomq_video.css" crc="128293083" ref="video"/>
-    <file name="buy.css" crc="240448381" ref="buy"/>
-    <file name="nomq_buy.css" crc="471935677" ref="buy"/>
-    <file name="members-area.css" crc="418279433" ref="members-area"/>
-    <file name="nomq_members-area.css" crc="114501753" ref="members-area"/>
-    <file name="irl-shows.css" crc="73246614" ref="irl-shows"/>
-    <file name="nomq_irl-shows.css" crc="3895534046" ref="irl-shows"/>
-    <file name="releases.css" crc="49338140" ref="releases"/>
-    <file name="nomq_releases.css" crc="3895534046" ref="releases"/>
-    <file name="members-area-access-zone.css" crc="439161820" ref="members-area-access-zone"/>
-    <file name="nomq_members-area-access-zone.css" crc="216554367" ref="members-area-access-zone"/>
-    <file name="stream.css" crc="4241102140" ref="stream"/>
-    <file name="nomq_stream.css" crc="3974597088" ref="stream"/>
+    <file name="v-rave.css" crc="4279475394" ref="v-rave"/>
+    <file name="nomq_v-rave.css" crc="469727949" ref="v-rave"/>
+    <file name="video.css" crc="322941000" ref="video"/>
+    <file name="nomq_video.css" crc="371747635" ref="video"/>
+    <file name="buy.css" crc="199205769" ref="buy"/>
+    <file name="nomq_buy.css" crc="4174882286" ref="buy"/>
+    <file name="members-area.css" crc="4147135351" ref="members-area"/>
+    <file name="nomq_members-area.css" crc="3800095390" ref="members-area"/>
+    <file name="irl-shows.css" crc="4080765436" ref="irl-shows"/>
+    <file name="nomq_irl-shows.css" crc="342384318" ref="irl-shows"/>
+    <file name="releases.css" crc="256814033" ref="releases"/>
+    <file name="nomq_releases.css" crc="342384318" ref="releases"/>
+    <file name="members-area-access-zone.css" crc="491590487" ref="members-area-access-zone"/>
+    <file name="nomq_members-area-access-zone.css" crc="522371834" ref="members-area-access-zone"/>
+    <file name="stream.css" crc="3771617547" ref="stream"/>
+    <file name="nomq_stream.css" crc="4022422719" ref="stream"/>
   </folder>
   <folder name="assets">
     <file name="video.mp4" crc="41756709" seo="true" mt="1584225316000"/>
@@ -42,7 +42,7 @@
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="require.js" crc="4157109226" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="members-area"/>
@@ -520,8 +520,8 @@
     <file name="contact-u1879-r4.png" crc="4005025120" ref="index"/>
     <file name="contact-u1879-m4.png" crc="4196564381" ref="index"/>
     <file name="contact-u1879-a4.png" crc="493670170" ref="index"/>
-    <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy:audio"/>
-    <file name="home-u34137.png" crc="496599937" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
+    <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy"/>
+    <file name="home-u34137.png" crc="4244388105" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-r.png" crc="471718754" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-m.png" crc="219459819" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
     <file name="home-u34137-a.png" crc="442696709" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio"/>
@@ -630,13 +630,13 @@
     <file name="members-area-access-zone-favicon.ico" crc="217633453" ref="members-area-access-zone"/>
   </folder>
   <file name="index.html" crc="288842568" seo="true" mt="1587197627238" redirect="true"/>
-  <file name="buy.html" crc="4156311109" seo="true" mt="1587193595946" redirect="true"/>
-  <file name="releases.html" crc="3984294409" seo="true" mt="1586034493093" redirect="true"/>
-  <file name="video.html" crc="4114061977" seo="true" mt="1587194617248" redirect="true"/>
-  <file name="irl-shows.html" crc="3898470521" seo="true" mt="1586034493093" redirect="true"/>
-  <file name="stream.html" crc="337017203" seo="true" mt="1586045030096" redirect="true"/>
-  <file name="v-rave.html" crc="93963312" seo="true" mt="1587195691446" redirect="true"/>
-  <file name="members-area.html" crc="23916680" seo="true" mt="1586034493093" redirect="true"/>
-  <file name="members-area-access-zone.html" crc="195011810" seo="true" mt="1586034493093" redirect="true"/>
-  <file name="audio.html" crc="4013876881" seo="true" mt="1587197105897" redirect="true"/>
+  <file name="buy.html" crc="239412790" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="releases.html" crc="3973483992" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="video.html" crc="3842767742" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="irl-shows.html" crc="4214645610" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="stream.html" crc="361370147" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="v-rave.html" crc="4046700557" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="members-area.html" crc="99171257" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="members-area-access-zone.html" crc="530371138" seo="true" mt="1587199135975" redirect="true"/>
+  <file name="audio.html" crc="201404631" seo="true" mt="1587199135975" redirect="true"/>
 </manifest>
