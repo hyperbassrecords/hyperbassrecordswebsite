@@ -1,0 +1,56 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=UTF-8 />
+    <link rel="stylesheet" type="text/css" href="css/testvr.css" />
+  </head>
+  <body>
+      <script src="scripts/three.min.js"></script>
+      <script src="scripts/OrbitControls.js"></script>
+      <script>
+          let scene, camera, renderer;
+          function init() {
+              scene = new THREE.Scene;
+
+              camera = new Three.PerspectiveCamera(55, window.inner/window.innerHeight, 45, 3000);
+              camera.position.set(-900,-200,-900);
+
+              renderer = new THREE.webGLRenderer({antialias:true});
+              renderer.SetSize(window.innerWidth, window.innerHeight);
+              document.body.appendChild(renderer.domElement);
+
+              let controls = new THREE.OrbitControls(camera);
+              controls.addEventListener('change',renderer);
+              controls.minDistance = 500;
+              controls.maxDistance = 1500;
+
+              letmaterialArray = [];
+              let texture_bk = new THREE.TextureLoader().load('/images/divine_bk.jpg');
+              let texture_dn = new THREE.TextureLoader().load('/images/divine_dn.jpg');
+              let texture_ft = new THREE.TextureLoader().load('/images/divine_ft.jpg');
+              let texture_lf = new THREE.TextureLoader().load('/images/divine_lf.jpg');
+              let texture_rt = new THREE.TextureLoader().load('/images/divine_rt.jpg');
+              let texture_up = new THREE.TextureLoader().load('/images/divine_up.jpg');
+
+              materialArray.push(new THREE.MeshBasicMaterial ({map: texture_bk}));
+              materialArray.push(new THREE.MeshBasicMaterial ({map: texture_dn}));
+              materialArray.push(new THREE.MeshBasicMaterial ({map: texture_ft}));
+              materialArray.push(new THREE.MeshBasicMaterial ({map: texture_lf}));
+              materialArray.push(new THREE.MeshBasicMaterial ({map: texture_rt}));
+              materialArray.push(new THREE.MeshBasicMaterial ({map: texture_up}));
+
+              for(let i=0;i<6;i++)
+                materialArray[i].side = THREE.Backside;
+              let skyboxGEO = new THREE.BoxGeometry(10000,10000,10000);
+              let skybox = new THREE.Mesh(skyboxGEO, materialArray);
+              scene.add(skybox);
+              animate();
+          }
+          function animate() {
+              renderer.render(scene,camera);
+              requestAnimationFrame(animate);
+          }
+          init();
+      </script>
+  </body> 
+</html> 
