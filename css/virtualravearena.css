@@ -11,6 +11,7 @@ canvas {
   position: absolute;
   top:0;
   left:0;
+  z-index: inherit 0;
 }
 .text-box {
   font-size: 60px;
