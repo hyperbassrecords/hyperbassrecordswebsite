@@ -9,9 +9,11 @@ body {
 }
 canvas {
   position: absolute;
-  top:0;
-  left:0;
-  z-index: 100;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
 }
 .text-box {
   font-size: 60px;
