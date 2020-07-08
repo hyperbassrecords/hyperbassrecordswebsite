@@ -4,6 +4,12 @@ body {
   margin: 0;
   overflow: hidden;
 }
+canvas {
+  position: absolute;
+  top:0;
+  left:0;
+  z-index: -1;
+}
 .text-box {
   font-size: 60px;
   font-family: 'Raleway', sans-serif;
