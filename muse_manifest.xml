@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1596969719560">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1596970563536">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="214787155" ref="index"/>
     <file name="nomq_preview_master_hyperbass-records.css" crc="3824530138" ref="index"/>
     <file name="master_hyperbass-records-nav.css" crc="4191906730" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3977210221" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
-    <file name="audio.css" crc="488414658" ref="audio"/>
-    <file name="nomq_audio.css" crc="3807952368" ref="audio"/>
+    <file name="audio.css" crc="3974457173" ref="audio"/>
+    <file name="nomq_audio.css" crc="129552509" ref="audio"/>
     <file name="index.css" crc="3162686" ref="index"/>
     <file name="nomq_index.css" crc="4037927043" ref="index"/>
     <file name="v-rave.css" crc="52404823" ref="v-rave"/>
@@ -198,10 +198,10 @@
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
@@ -224,10 +224,10 @@
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
     </file>
     <file name="u13652.png" crc="3882461285" ref="index"/>
     <file name="u1365-r2.png" crc="125227753" ref="index"/>
@@ -656,6 +656,6 @@
   <file name="v-rave.html" crc="4145975186" seo="true" mt="1587204261569" redirect="true"/>
   <file name="members-area.html" crc="3897171302" seo="true" mt="1587204261569" redirect="true"/>
   <file name="members-area-access-zone.html" crc="240768472" seo="true" mt="1587204261569" redirect="true"/>
-  <file name="audio.html" crc="3848787997" seo="true" mt="1596969706794" redirect="true"/>
+  <file name="audio.html" crc="3795862371" seo="true" mt="1596970550414" redirect="true"/>
   <file name="image.html" crc="425797537" seo="true" mt="1587204261569" redirect="true"/>
 </manifest>
