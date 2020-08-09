@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1596969529792">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1596969719560">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="214787155" ref="index"/>
     <file name="nomq_preview_master_hyperbass-records.css" crc="3824530138" ref="index"/>
-    <file name="master_hyperbass-records-nav.css" crc="73163461" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
+    <file name="master_hyperbass-records-nav.css" crc="4191906730" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3977210221" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
-    <file name="audio.css" crc="478111855" ref="audio"/>
-    <file name="nomq_audio.css" crc="393640796" ref="audio"/>
+    <file name="audio.css" crc="488414658" ref="audio"/>
+    <file name="nomq_audio.css" crc="3807952368" ref="audio"/>
     <file name="index.css" crc="3162686" ref="index"/>
     <file name="nomq_index.css" crc="4037927043" ref="index"/>
     <file name="v-rave.css" crc="52404823" ref="v-rave"/>
@@ -186,10 +186,6 @@
     <file name="contact-u1879-m.png" crc="73910230" ref="index"/>
     <file name="contact-u1879-a.png" crc="363009104" ref="index"/>
     <file name="logow.png" crc="3890250073" seo="true" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image">
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
       <caption webpage="stream" alt=""/>
       <caption webpage="stream" alt=""/>
       <caption webpage="stream" alt=""/>
@@ -202,32 +198,36 @@
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
     </file>
     <file name="u13652.png" crc="3882461285" ref="index"/>
     <file name="u1365-r2.png" crc="125227753" ref="index"/>
@@ -534,39 +534,39 @@
     <file name="tiktok-u38703-m.png" crc="370451278" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="tiktok-u38703-a.png" crc="4204301983" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="mail-u38706.png" crc="4099610520" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="mail-u38706-r.png" crc="3776631556" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="mail-u38706-m.png" crc="3867479701" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="mail-u38706-r.png" crc="387550830" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="mail-u38706-m.png" crc="3933778891" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="mail-u38706-a.png" crc="4099610520" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="fb-u38700.png" crc="88987610" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="fb-u38700-r.png" crc="3902954079" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="fb-u38700-m.png" crc="338749157" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="fb-u38700-a.png" crc="88987610" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="twitter-u38701.png" crc="288785050" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="twitter-u38701-r.png" crc="4082559602" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="twitter-u38701-m.png" crc="4150176980" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="twitter-u38701-r.png" crc="3906517750" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="twitter-u38701-m.png" crc="4217033567" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="twitter-u38701-a.png" crc="288785050" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="ig-u38709.png" crc="197346819" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="ig-u38709-r.png" crc="94278329" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="ig-u38709-m.png" crc="3891453046" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="ig-u38709-r.png" crc="4126323689" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="ig-u38709-m.png" crc="78492415" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="ig-u38709-a.png" crc="197346819" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="discord-u38707.png" crc="4291278726" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="discord-u38707-r.png" crc="332502162" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="discord-u38707-m.png" crc="96503592" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="discord-u38707-r.png" crc="32252139" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="discord-u38707-m.png" crc="3886073517" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="badncamp-u38705.png" crc="339486522" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="badncamp-u38705-r.png" crc="265398312" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="badncamp-u38705-m.png" crc="320335730" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="badncamp-u38705-r.png" crc="4264627706" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="badncamp-u38705-m.png" crc="417663984" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="badncamp-u38705-a.png" crc="339486522" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="youtube-u38704.png" crc="12341457" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="youtube-u38704-r.png" crc="344284838" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="youtube-u38704-m.png" crc="374544588" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="youtube-u38704-r.png" crc="4288050184" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="youtube-u38704-m.png" crc="4047885852" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="youtube-u38704-a.png" crc="4138953101" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="soundcloud-u38708.png" crc="443088559" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="soundcloud-u38708-r.png" crc="3823900533" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="soundcloud-u38708-m.png" crc="4272594936" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="soundcloud-u38708-r.png" crc="4193544237" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="soundcloud-u38708-m.png" crc="169500108" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="soundcloud-u38708-a.png" crc="443088559" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="twitch-u38702.png" crc="33043675" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="twitch-u38702-r.png" crc="4208172141" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
-    <file name="twitch-u38702-m.png" crc="3953378838" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="twitch-u38702-r.png" crc="148657881" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="twitch-u38702-m.png" crc="4061138465" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="twitch-u38702-a.png" crc="33043675" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="shows-u34140.png" crc="504952614" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="shows-u34140-r.png" crc="3899636262" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
@@ -656,6 +656,6 @@
   <file name="v-rave.html" crc="4145975186" seo="true" mt="1587204261569" redirect="true"/>
   <file name="members-area.html" crc="3897171302" seo="true" mt="1587204261569" redirect="true"/>
   <file name="members-area-access-zone.html" crc="240768472" seo="true" mt="1587204261569" redirect="true"/>
-  <file name="audio.html" crc="360180884" seo="true" mt="1596969512359" redirect="true"/>
+  <file name="audio.html" crc="3848787997" seo="true" mt="1596969706794" redirect="true"/>
   <file name="image.html" crc="425797537" seo="true" mt="1587204261569" redirect="true"/>
 </manifest>
