@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1596970563536">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1597750612109">
   <folder name="css">
     <file name="site_global.css" crc="4148094348"/>
     <file name="master_hyperbass-records.css" crc="214787155" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3977210221" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
     <file name="audio.css" crc="3974457173" ref="audio"/>
     <file name="nomq_audio.css" crc="129552509" ref="audio"/>
-    <file name="index.css" crc="3162686" ref="index"/>
-    <file name="nomq_index.css" crc="4037927043" ref="index"/>
+    <file name="index.css" crc="526890486" ref="index"/>
+    <file name="nomq_index.css" crc="129425755" ref="index"/>
     <file name="v-rave.css" crc="52404823" ref="v-rave"/>
     <file name="nomq_v-rave.css" crc="397829078" ref="v-rave"/>
     <file name="video.css" crc="3772042371" ref="video"/>
@@ -143,32 +143,32 @@
     <file name="tiktok-u1015-r.png" crc="3989096017" ref="index"/>
     <file name="tiktok-u1015-m.png" crc="370451278" ref="index"/>
     <file name="mail-u1175.png" crc="4099610520" ref="index"/>
-    <file name="mail-u1175-r.png" crc="387550830" ref="index"/>
-    <file name="mail-u1175-m.png" crc="3933778891" ref="index"/>
+    <file name="mail-u1175-r.png" crc="3776631556" ref="index"/>
+    <file name="mail-u1175-m.png" crc="3867479701" ref="index"/>
     <file name="fb-u1143.png" crc="88987610" ref="index"/>
     <file name="fb-u1143-r.png" crc="3902954079" ref="index"/>
     <file name="fb-u1143-m.png" crc="338749157" ref="index"/>
     <file name="twitter-u1111.png" crc="288785050" ref="index"/>
-    <file name="twitter-u1111-r.png" crc="3906517750" ref="index"/>
-    <file name="twitter-u1111-m.png" crc="4217033567" ref="index"/>
+    <file name="twitter-u1111-r.png" crc="4082559602" ref="index"/>
+    <file name="twitter-u1111-m.png" crc="4150176980" ref="index"/>
     <file name="ig-u1047.png" crc="197346819" ref="index"/>
-    <file name="ig-u1047-r.png" crc="4126323689" ref="index"/>
-    <file name="ig-u1047-m.png" crc="78492415" ref="index"/>
+    <file name="ig-u1047-r.png" crc="94278329" ref="index"/>
+    <file name="ig-u1047-m.png" crc="3891453046" ref="index"/>
     <file name="discord-u1207.png" crc="4291278726" ref="index"/>
-    <file name="discord-u1207-r.png" crc="32252139" ref="index"/>
-    <file name="discord-u1207-m.png" crc="3886073517" ref="index"/>
+    <file name="discord-u1207-r.png" crc="332502162" ref="index"/>
+    <file name="discord-u1207-m.png" crc="96503592" ref="index"/>
     <file name="badncamp-u978.png" crc="339486522" ref="index"/>
-    <file name="badncamp-u978-r.png" crc="4264627706" ref="index"/>
-    <file name="badncamp-u978-m.png" crc="417663984" ref="index"/>
+    <file name="badncamp-u978-r.png" crc="265398312" ref="index"/>
+    <file name="badncamp-u978-m.png" crc="320335730" ref="index"/>
     <file name="youtube-u897.png" crc="12341457" ref="index"/>
-    <file name="youtube-u897-r.png" crc="4288050184" ref="index"/>
-    <file name="youtube-u897-m.png" crc="4047885852" ref="index"/>
+    <file name="youtube-u897-r.png" crc="344284838" ref="index"/>
+    <file name="youtube-u897-m.png" crc="374544588" ref="index"/>
     <file name="soundcloud-u946.png" crc="443088559" ref="index"/>
-    <file name="soundcloud-u946-r.png" crc="4193544237" ref="index"/>
-    <file name="soundcloud-u946-m.png" crc="169500108" ref="index"/>
+    <file name="soundcloud-u946-r.png" crc="3823900533" ref="index"/>
+    <file name="soundcloud-u946-m.png" crc="4272594936" ref="index"/>
     <file name="twitch-u1079.png" crc="33043675" ref="index"/>
-    <file name="twitch-u1079-r.png" crc="148657881" ref="index"/>
-    <file name="twitch-u1079-m.png" crc="4061138465" ref="index"/>
+    <file name="twitch-u1079-r.png" crc="4208172141" ref="index"/>
+    <file name="twitch-u1079-m.png" crc="3953378838" ref="index"/>
     <file name="home-u1616.png" crc="4266753247" ref="index"/>
     <file name="home-u1616-r.png" crc="3962134568" ref="index"/>
     <file name="home-u1616-m.png" crc="436622518" ref="index"/>
@@ -190,44 +190,44 @@
       <caption webpage="stream" alt=""/>
       <caption webpage="stream" alt=""/>
       <caption webpage="stream" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
     </file>
     <file name="u13652.png" crc="3882461285" ref="index"/>
     <file name="u1365-r2.png" crc="125227753" ref="index"/>
@@ -647,7 +647,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4191419843" seo="true" mt="1589603435979" redirect="true"/>
+  <file name="index.html" crc="448752548" seo="true" mt="1597750585615" redirect="true"/>
   <file name="buy.html" crc="403359814" seo="true" mt="1592164517266" redirect="true"/>
   <file name="releases.html" crc="3904384475" seo="true" mt="1587204261569" redirect="true"/>
   <file name="video.html" crc="88256306" seo="true" mt="1589603054894" redirect="true"/>
