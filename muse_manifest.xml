@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1597750612109">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1599648423290">
   <folder name="css">
-    <file name="site_global.css" crc="4148094348"/>
-    <file name="master_hyperbass-records.css" crc="214787155" ref="index"/>
+    <file name="site_global.css" crc="515999165"/>
+    <file name="master_hyperbass-records.css" crc="4002099487" ref="index"/>
     <file name="nomq_preview_master_hyperbass-records.css" crc="3824530138" ref="index"/>
-    <file name="master_hyperbass-records-nav.css" crc="4191906730" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
-    <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3977210221" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
-    <file name="audio.css" crc="3974457173" ref="audio"/>
-    <file name="nomq_audio.css" crc="129552509" ref="audio"/>
-    <file name="index.css" crc="526890486" ref="index"/>
-    <file name="nomq_index.css" crc="129425755" ref="index"/>
+    <file name="master_hyperbass-records-nav.css" crc="197099690" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
+    <file name="nomq_preview_master_hyperbass-records-nav.css" crc="3420452" ref="audio:v-rave:video:buy:members-area:irl-shows:releases:members-area-access-zone:stream:image"/>
+    <file name="audio.css" crc="145070838" ref="audio"/>
+    <file name="nomq_audio.css" crc="259756128" ref="audio"/>
+    <file name="index.css" crc="4053437789" ref="index"/>
+    <file name="nomq_index.css" crc="4267541712" ref="index"/>
     <file name="v-rave.css" crc="52404823" ref="v-rave"/>
     <file name="nomq_v-rave.css" crc="397829078" ref="v-rave"/>
     <file name="video.css" crc="3772042371" ref="video"/>
@@ -44,7 +44,7 @@
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:stream:members-area:members-area-access-zone:v-rave:image:video"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:stream:members-area:members-area-access-zone:v-rave:image:video:audio"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="require.js" crc="4157109226" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="members-area"/>
@@ -186,48 +186,48 @@
     <file name="contact-u1879-m.png" crc="73910230" ref="index"/>
     <file name="contact-u1879-a.png" crc="363009104" ref="index"/>
     <file name="logow.png" crc="3890250073" seo="true" ref="index:buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image">
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
     </file>
     <file name="u13652.png" crc="3882461285" ref="index"/>
     <file name="u1365-r2.png" crc="125227753" ref="index"/>
@@ -521,7 +521,7 @@
     <file name="contact-u1879-m4.png" crc="4196564381" ref="index"/>
     <file name="contact-u1879-a4.png" crc="493670170" ref="index"/>
     <file name="hyperbass-records-nav-favicon.ico" crc="217633453" ref="buy:video:audio"/>
-    <file name="home-u34137.png" crc="503897572" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
+    <file name="home-u34137.png" crc="180942089" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="home-u34137-r.png" crc="392408497" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="home-u34137-m.png" crc="381835353" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
     <file name="home-u34137-a.png" crc="3898683990" ref="buy:releases:video:irl-shows:stream:v-rave:members-area:members-area-access-zone:audio:image"/>
@@ -647,7 +647,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="448752548" seo="true" mt="1597750585615" redirect="true"/>
+  <file name="index.html" crc="3772307013" seo="true" mt="1589603435979" redirect="true"/>
   <file name="buy.html" crc="403359814" seo="true" mt="1592164517266" redirect="true"/>
   <file name="releases.html" crc="3904384475" seo="true" mt="1587204261569" redirect="true"/>
   <file name="video.html" crc="88256306" seo="true" mt="1589603054894" redirect="true"/>
@@ -656,6 +656,6 @@
   <file name="v-rave.html" crc="4145975186" seo="true" mt="1587204261569" redirect="true"/>
   <file name="members-area.html" crc="3897171302" seo="true" mt="1587204261569" redirect="true"/>
   <file name="members-area-access-zone.html" crc="240768472" seo="true" mt="1587204261569" redirect="true"/>
-  <file name="audio.html" crc="3795862371" seo="true" mt="1596970550414" redirect="true"/>
+  <file name="audio.html" crc="465873485" seo="true" mt="1599648397451" redirect="true"/>
   <file name="image.html" crc="425797537" seo="true" mt="1587204261569" redirect="true"/>
 </manifest>
