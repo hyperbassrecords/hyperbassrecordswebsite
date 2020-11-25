@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606287291731">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606287749558">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -12,10 +12,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4041737661"/>
-    <file name="audio.css" crc="4198382521" ref="audio"/>
-    <file name="nomq_audio.css" crc="253610311" ref="audio"/>
-    <file name="index.css" crc="3773815086" ref="index"/>
-    <file name="nomq_index.css" crc="3945035778" ref="index"/>
+    <file name="audio.css" crc="78434443" ref="audio"/>
+    <file name="nomq_audio.css" crc="3944926839" ref="audio"/>
+    <file name="index.css" crc="3974792043" ref="index"/>
+    <file name="nomq_index.css" crc="322935867" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -45,7 +45,15 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:audio"/>
-    <file name="logow.png" crc="3978594632" ref="index">
+    <file name="logow.png" crc="4138781657" ref="index:audio">
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
@@ -54,47 +62,29 @@
       <caption webpage="releases" alt=""/>
       <caption webpage="releases" alt=""/>
       <caption webpage="releases" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
       <caption webpage="irl-shows" alt=""/>
-    </file>
-    <file name="003.jpg" crc="425010786" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="3834575601" ref="index"/>
     <file name="icon_insta-u1855-fr.png" crc="279588522" ref="index"/>
@@ -108,7 +98,7 @@
     <file name="tiktk-u1858-fr.png" crc="244069417" ref="index"/>
     <file name="tiktk-u1858-r-fr.png" crc="362316957" ref="index"/>
     <file name="1-u2052-fr.jpg" crc="4211087025" ref="index"/>
-    <file name="logow-u1975-3-fr.png" crc="4138781657" ref="index:audio"/>
+    <file name="logow-u1975-3-fr.png" crc="394274073" ref="index:audio"/>
     <file name="mx-buttonu2173-fr.jpg" crc="4000380302" ref="index"/>
     <file name="hk-buttonu2230-fr.jpg" crc="271491337" ref="index"/>
     <file name="uk-buttonu2242-fr.jpg" crc="3809911330" ref="index"/>
@@ -151,13 +141,6 @@
     </file>
     <file name="6660-buttonu2891-fr.jpg" crc="222485607" ref="index"/>
     <file name="001-u2842-fr.jpg" crc="11040987" ref="index"/>
-    <file name="002.jpg" crc="408459357" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="003-u2829-fr.jpg" crc="263784418" ref="index"/>
     <file name="004-u2860-fr.jpg" crc="3982293182" ref="index"/>
     <file name="005-u2857-fr.jpg" crc="4063645549" ref="index"/>
@@ -311,7 +294,7 @@
       <caption webpage="audio" alt=""/>
     </file>
     <file name="1-u2052-fr2.jpg" crc="524969978" ref="index"/>
-    <file name="logow-u1975-3-fr2.png" crc="247930473" ref="index:audio"/>
+    <file name="logow-u1975-3-fr2.png" crc="3845610907" ref="index:audio"/>
     <file name="mx-buttonu2173-fr2.jpg" crc="224785207" ref="index"/>
     <file name="hk-buttonu2230-fr2.jpg" crc="4270670220" ref="index"/>
     <file name="uk-buttonu2242-fr2.jpg" crc="3949092653" ref="index"/>
@@ -373,24 +356,22 @@
     <file name="bg-u3504-fr2.jpg" crc="442195865" ref="index"/>
     <file name="125202160_1677628479083921_19209742867202428_o-u3509-fr2.jpg" crc="3805361309" ref="index"/>
     <file name="010-u3518-fr.jpg" crc="174205272" ref="index"/>
-    <file name="logow-u1975-3-fr3.png" crc="3778653716" ref="index:audio"/>
     <file name="1-u2052-fr4.jpg" crc="4191954099" ref="index"/>
     <file name="mx-buttonu2173-fr5.jpg" crc="3910655791" ref="index"/>
     <file name="hk-buttonu2230-fr5.jpg" crc="369394264" ref="index"/>
     <file name="uk-buttonu2242-fr5.jpg" crc="98914778" ref="index"/>
     <file name="team_01_2-buttonu2449-r-fr2.jpg" crc="295065759" ref="index"/>
     <file name="team_02_2-buttonu2495-r-fr2.jpg" crc="417634459" ref="index"/>
-    <file name="logow-u2735-fr.png" crc="4054967906" ref="index"/>
     <file name="6660-buttonu2891-fr5.jpg" crc="500921969" ref="index"/>
     <file name="001-u2842-fr4.jpg" crc="4167914693" ref="index"/>
-    <file name="002-u2848-fr.jpg" crc="4154764835" ref="index"/>
+    <file name="002-u2848-fr.jpg" crc="4159211841" ref="index"/>
     <file name="003-u2829-fr4.jpg" crc="422896837" ref="index"/>
     <file name="004-u2860-fr4.jpg" crc="3964428585" ref="index"/>
     <file name="005-u2857-fr4.jpg" crc="156501903" ref="index"/>
     <file name="006-u12003-fr4.jpg" crc="137750784" ref="index"/>
     <file name="007-u11395-fr4.jpg" crc="4138290280" ref="index"/>
     <file name="008-u11413-fr4.jpg" crc="3876857617" ref="index"/>
-    <file name="003-u11431-fr.jpg" crc="302350055" ref="index"/>
+    <file name="003-u11431-fr.jpg" crc="3771854125" ref="index"/>
     <file name="010-u11449-fr4.jpg" crc="4080916036" ref="index"/>
     <file name="0011-u11467-fr4.jpg" crc="4187344032" ref="index"/>
     <file name="002-u11931-fr.jpg" crc="3894803488" ref="index"/>
@@ -405,7 +386,14 @@
     <file name="hyper rave ft pixelord hosted by sunshine vendetta-u11985-fr3.jpg" crc="388988159" ref="index"/>
     <file name="002-u11931-fr4.jpg" crc="473814794" ref="index"/>
     <file name="hyper rave ft pixelord hosted by sunshine vendetta-u11985-fr4.jpg" crc="4125401825" ref="index"/>
+    <file name="002-u2848-fr2.jpg" crc="3921223314" ref="index"/>
+    <file name="003-u11431-fr2.jpg" crc="390667891" ref="index"/>
+    <file name="002-u2848-fr3.jpg" crc="4215742118" ref="index"/>
+    <file name="003-u11431-fr3.jpg" crc="4255942024" ref="index"/>
+    <file name="logow-u2735-fr.jpg" crc="3762409866" ref="index"/>
+    <file name="002-u2848-fr4.jpg" crc="3886725821" ref="index"/>
+    <file name="003-u11431-fr4.jpg" crc="433718534" ref="index"/>
   </folder>
-  <file name="index.html" crc="4232357022" seo="true" mt="1606287184356" redirect="true"/>
-  <file name="audio.html" crc="428179623" seo="true" mt="1606287202140" redirect="true"/>
+  <file name="index.html" crc="349423182" seo="true" mt="1606287733744" redirect="true"/>
+  <file name="audio.html" crc="172849907" seo="true" mt="1606287733278" redirect="true"/>
 </manifest>
