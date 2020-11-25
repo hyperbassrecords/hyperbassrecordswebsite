@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606286724150">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606286788056">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -12,8 +12,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4041737661"/>
-    <file name="audio.css" crc="3916830339" ref="audio"/>
-    <file name="nomq_audio.css" crc="3853833969" ref="audio"/>
+    <file name="audio.css" crc="3797423834" ref="audio"/>
+    <file name="nomq_audio.css" crc="4190933147" ref="audio"/>
     <file name="index.css" crc="4101086333" ref="index"/>
     <file name="nomq_index.css" crc="445104342" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
@@ -108,7 +108,7 @@
     <file name="tiktk-u1858-fr.png" crc="244069417" ref="index"/>
     <file name="tiktk-u1858-r-fr.png" crc="362316957" ref="index"/>
     <file name="1-u2052-fr.jpg" crc="4211087025" ref="index"/>
-    <file name="logow-u1975-3-fr.png" crc="4138781657" ref="index:audio"/>
+    <file name="logow-u1975-3-fr.png" crc="4138781657" ref="index"/>
     <file name="mx-buttonu2173-fr.jpg" crc="4000380302" ref="index"/>
     <file name="hk-buttonu2230-fr.jpg" crc="271491337" ref="index"/>
     <file name="uk-buttonu2242-fr.jpg" crc="3809911330" ref="index"/>
@@ -318,12 +318,14 @@
     </file>
     <file name="menu_01.png" crc="4251932765" ref="index:audio">
       <caption webpage="index" alt=""/>
+      <caption webpage="audio" alt=""/>
     </file>
     <file name="menu_02.png" crc="3979555185" ref="index:audio">
       <caption webpage="index" alt=""/>
+      <caption webpage="audio" alt=""/>
     </file>
     <file name="1-u2052-fr2.jpg" crc="524969978" ref="index"/>
-    <file name="logow-u1975-3-fr2.png" crc="247930473" ref="index:audio"/>
+    <file name="logow-u1975-3-fr2.png" crc="247930473" ref="index"/>
     <file name="mx-buttonu2173-fr2.jpg" crc="224785207" ref="index"/>
     <file name="hk-buttonu2230-fr2.jpg" crc="4270670220" ref="index"/>
     <file name="uk-buttonu2242-fr2.jpg" crc="3949092653" ref="index"/>
@@ -361,16 +363,16 @@
     <file name="6660-buttonu2891-fr4.jpg" crc="3961524182" ref="index"/>
     <file name="bg-u3504-fr.jpg" crc="210936045" ref="index"/>
     <file name="125202160_1677628479083921_19209742867202428_o-u3509-fr.jpg" crc="24744115" ref="index"/>
-    <file name="icon_fb-u3741-fr2.png" crc="5918687" ref="index:audio"/>
-    <file name="icon_fb-u3741-r-fr3.png" crc="4082478489" ref="index:audio"/>
-    <file name="icon_twitter-u3740-fr2.png" crc="3819369706" ref="index:audio"/>
-    <file name="icon_twitter-u3740-r-fr3.png" crc="3315391" ref="index:audio"/>
-    <file name="icon_insta-u3737-fr2.png" crc="499660215" ref="index:audio"/>
-    <file name="icon_insta-u3737-r-fr3.png" crc="527951028" ref="index:audio"/>
-    <file name="icon_youtube-u3738-fr2.png" crc="3858646871" ref="index:audio"/>
-    <file name="icon_youtube-u3738-r-fr3.png" crc="45972490" ref="index:audio"/>
-    <file name="tiktk-u3739-fr2.png" crc="3779615483" ref="index:audio"/>
-    <file name="tiktk-u3739-r-fr3.png" crc="3847191103" ref="index:audio"/>
+    <file name="icon_fb-u3741-fr2.png" crc="5918687" ref="index"/>
+    <file name="icon_fb-u3741-r-fr3.png" crc="4082478489" ref="index"/>
+    <file name="icon_twitter-u3740-fr2.png" crc="3819369706" ref="index"/>
+    <file name="icon_twitter-u3740-r-fr3.png" crc="3315391" ref="index"/>
+    <file name="icon_insta-u3737-fr2.png" crc="499660215" ref="index"/>
+    <file name="icon_insta-u3737-r-fr3.png" crc="527951028" ref="index"/>
+    <file name="icon_youtube-u3738-fr2.png" crc="3858646871" ref="index"/>
+    <file name="icon_youtube-u3738-r-fr3.png" crc="45972490" ref="index"/>
+    <file name="tiktk-u3739-fr2.png" crc="3779615483" ref="index"/>
+    <file name="tiktk-u3739-r-fr3.png" crc="3847191103" ref="index"/>
     <file name="team_01_2-buttonu2449-r-fr.jpg" crc="3926071330" ref="index"/>
     <file name="team_02_2-buttonu2495-r-fr.jpg" crc="4147409654" ref="index"/>
     <file name="001-u2842-fr3.jpg" crc="3793000084" ref="index"/>
@@ -385,7 +387,7 @@
     <file name="bg-u3504-fr2.jpg" crc="442195865" ref="index"/>
     <file name="125202160_1677628479083921_19209742867202428_o-u3509-fr2.jpg" crc="3805361309" ref="index"/>
     <file name="010-u3518-fr.jpg" crc="174205272" ref="index"/>
-    <file name="logow-u1975-3-fr3.png" crc="3778653716" ref="index:audio"/>
+    <file name="logow-u1975-3-fr3.png" crc="3778653716" ref="index"/>
     <file name="1-u2052-fr4.jpg" crc="4191954099" ref="index"/>
     <file name="mx-buttonu2173-fr5.jpg" crc="3910655791" ref="index"/>
     <file name="hk-buttonu2230-fr5.jpg" crc="369394264" ref="index"/>
@@ -411,7 +413,20 @@
     <file name="125202160_1677628479083921_19209742867202428_o-u3509-fr3.jpg" crc="249307309" ref="index"/>
     <file name="010-u3518-fr2.jpg" crc="288786371" ref="index"/>
     <file name="audio-favicon.ico" crc="3834575601" ref="audio"/>
+    <file name="logow-u9818-3-fr.png" crc="4138781657" ref="audio"/>
+    <file name="icon_fb-u9023-fr.png" crc="5918687" ref="audio"/>
+    <file name="icon_fb-u9023-r-fr.png" crc="4082478489" ref="audio"/>
+    <file name="icon_twitter-u9024-fr.png" crc="3819369706" ref="audio"/>
+    <file name="icon_twitter-u9024-r-fr.png" crc="3315391" ref="audio"/>
+    <file name="icon_insta-u9026-fr.png" crc="499660215" ref="audio"/>
+    <file name="icon_insta-u9026-r-fr.png" crc="527951028" ref="audio"/>
+    <file name="icon_youtube-u9025-fr.png" crc="3858646871" ref="audio"/>
+    <file name="icon_youtube-u9025-r-fr.png" crc="45972490" ref="audio"/>
+    <file name="tiktk-u9029-fr.png" crc="3779615483" ref="audio"/>
+    <file name="tiktk-u9029-r-fr.png" crc="3847191103" ref="audio"/>
+    <file name="logow-u9818-3-fr2.png" crc="247930473" ref="audio"/>
+    <file name="logow-u9818-3-fr3.png" crc="3778653716" ref="audio"/>
   </folder>
   <file name="index.html" crc="3865034999" seo="true" mt="1606286669084" redirect="true"/>
-  <file name="audio.html" crc="3947333730" seo="true" mt="1606286293235" redirect="true"/>
+  <file name="audio.html" crc="4004582590" seo="true" mt="1606286769504" redirect="true"/>
 </manifest>
