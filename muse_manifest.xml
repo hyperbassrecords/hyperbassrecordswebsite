@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606288704400">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606290647624">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -12,10 +12,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4041737661"/>
-    <file name="audio.css" crc="124306168" ref="audio"/>
-    <file name="nomq_audio.css" crc="114599575" ref="audio"/>
-    <file name="index.css" crc="3893707870" ref="index"/>
-    <file name="nomq_index.css" crc="3814046559" ref="index"/>
+    <file name="audio.css" crc="165511086" ref="audio"/>
+    <file name="nomq_audio.css" crc="249037450" ref="audio"/>
+    <file name="index.css" crc="4116039930" ref="index"/>
+    <file name="nomq_index.css" crc="346291560" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -46,45 +46,45 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:audio"/>
     <file name="logow.png" crc="4138781657" ref="index:audio">
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
       <caption webpage="audio" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="3834575601" ref="index"/>
     <file name="icon_insta-u1855-fr.png" crc="279588522" ref="index"/>
@@ -98,7 +98,7 @@
     <file name="tiktk-u1858-fr.png" crc="244069417" ref="index"/>
     <file name="tiktk-u1858-r-fr.png" crc="362316957" ref="index"/>
     <file name="1-u2052-fr.jpg" crc="4211087025" ref="index"/>
-    <file name="logow-u1975-3-fr.png" crc="394274073" ref="index"/>
+    <file name="logow-u1975-3-fr.png" crc="394274073" ref="index:audio"/>
     <file name="mx-buttonu2173-fr.jpg" crc="4000380302" ref="index"/>
     <file name="hk-buttonu2230-fr.jpg" crc="271491337" ref="index"/>
     <file name="uk-buttonu2242-fr.jpg" crc="3809911330" ref="index"/>
@@ -294,7 +294,7 @@
       <caption webpage="audio" alt=""/>
     </file>
     <file name="1-u2052-fr2.jpg" crc="524969978" ref="index"/>
-    <file name="logow-u1975-3-fr2.png" crc="3845610907" ref="index"/>
+    <file name="logow-u1975-3-fr2.png" crc="3845610907" ref="index:audio"/>
     <file name="mx-buttonu2173-fr2.jpg" crc="224785207" ref="index"/>
     <file name="hk-buttonu2230-fr2.jpg" crc="4270670220" ref="index"/>
     <file name="uk-buttonu2242-fr2.jpg" crc="3949092653" ref="index"/>
@@ -332,16 +332,16 @@
     <file name="6660-buttonu2891-fr4.jpg" crc="3961524182" ref="index"/>
     <file name="bg-u3504-fr.jpg" crc="210936045" ref="index"/>
     <file name="125202160_1677628479083921_19209742867202428_o-u3509-fr.jpg" crc="24744115" ref="index"/>
-    <file name="icon_fb-u3741-fr2.png" crc="5918687" ref="index"/>
-    <file name="icon_fb-u3741-r-fr3.png" crc="4082478489" ref="index"/>
-    <file name="icon_twitter-u3740-fr2.png" crc="3819369706" ref="index"/>
-    <file name="icon_twitter-u3740-r-fr3.png" crc="3315391" ref="index"/>
-    <file name="icon_insta-u3737-fr2.png" crc="499660215" ref="index"/>
-    <file name="icon_insta-u3737-r-fr3.png" crc="527951028" ref="index"/>
-    <file name="icon_youtube-u3738-fr2.png" crc="3858646871" ref="index"/>
-    <file name="icon_youtube-u3738-r-fr3.png" crc="45972490" ref="index"/>
-    <file name="tiktk-u3739-fr2.png" crc="3779615483" ref="index"/>
-    <file name="tiktk-u3739-r-fr3.png" crc="3847191103" ref="index"/>
+    <file name="icon_fb-u3741-fr2.png" crc="5918687" ref="index:audio"/>
+    <file name="icon_fb-u3741-r-fr3.png" crc="4082478489" ref="index:audio"/>
+    <file name="icon_twitter-u3740-fr2.png" crc="3819369706" ref="index:audio"/>
+    <file name="icon_twitter-u3740-r-fr3.png" crc="3315391" ref="index:audio"/>
+    <file name="icon_insta-u3737-fr2.png" crc="499660215" ref="index:audio"/>
+    <file name="icon_insta-u3737-r-fr3.png" crc="527951028" ref="index:audio"/>
+    <file name="icon_youtube-u3738-fr2.png" crc="3858646871" ref="index:audio"/>
+    <file name="icon_youtube-u3738-r-fr3.png" crc="45972490" ref="index:audio"/>
+    <file name="tiktk-u3739-fr2.png" crc="3779615483" ref="index:audio"/>
+    <file name="tiktk-u3739-r-fr3.png" crc="3847191103" ref="index:audio"/>
     <file name="team_01_2-buttonu2449-r-fr.jpg" crc="3926071330" ref="index"/>
     <file name="team_02_2-buttonu2495-r-fr.jpg" crc="4147409654" ref="index"/>
     <file name="001-u2842-fr3.jpg" crc="3793000084" ref="index"/>
@@ -393,29 +393,17 @@
     <file name="logow-u2735-fr.jpg" crc="3762409866" ref="index"/>
     <file name="002-u2848-fr4.jpg" crc="3886725821" ref="index"/>
     <file name="003-u11431-fr4.jpg" crc="433718534" ref="index"/>
-    <file name="icon_fb-u9023-fr.png" crc="5918687" ref="audio"/>
-    <file name="icon_fb-u9023-r-fr.png" crc="4082478489" ref="audio"/>
-    <file name="icon_twitter-u9024-fr.png" crc="3819369706" ref="audio"/>
-    <file name="icon_twitter-u9024-r-fr.png" crc="3315391" ref="audio"/>
-    <file name="icon_insta-u9026-fr.png" crc="499660215" ref="audio"/>
-    <file name="icon_insta-u9026-r-fr.png" crc="527951028" ref="audio"/>
-    <file name="icon_youtube-u9025-fr.png" crc="3858646871" ref="audio"/>
-    <file name="icon_youtube-u9025-r-fr.png" crc="45972490" ref="audio"/>
-    <file name="tiktk-u9029-fr.png" crc="3779615483" ref="audio"/>
-    <file name="tiktk-u9029-r-fr.png" crc="3847191103" ref="audio"/>
-    <file name="logow-u9818-3-fr.png" crc="394274073" ref="audio"/>
-    <file name="logow-u9818-3-fr2.png" crc="3845610907" ref="audio"/>
-    <file name="icon_fb-u9023-fr2.png" crc="357603595" ref="audio"/>
-    <file name="icon_fb-u9023-r-fr2.png" crc="495550259" ref="audio"/>
-    <file name="icon_twitter-u9024-fr2.png" crc="59562503" ref="audio"/>
-    <file name="icon_twitter-u9024-r-fr2.png" crc="277565147" ref="audio"/>
-    <file name="icon_insta-u9026-fr2.png" crc="90725974" ref="audio"/>
-    <file name="icon_insta-u9026-r-fr2.png" crc="344911998" ref="audio"/>
-    <file name="icon_youtube-u9025-fr2.png" crc="445376597" ref="audio"/>
-    <file name="icon_youtube-u9025-r-fr2.png" crc="4281987019" ref="audio"/>
-    <file name="tiktk-u9029-fr2.png" crc="10031886" ref="audio"/>
-    <file name="tiktk-u9029-r-fr2.png" crc="4157285913" ref="audio"/>
+    <file name="icon_fb-u9023-fr.png" crc="357603595" ref="audio"/>
+    <file name="icon_fb-u9023-r-fr.png" crc="495550259" ref="audio"/>
+    <file name="icon_twitter-u9024-fr.png" crc="59562503" ref="audio"/>
+    <file name="icon_twitter-u9024-r-fr.png" crc="277565147" ref="audio"/>
+    <file name="icon_insta-u9026-fr.png" crc="90725974" ref="audio"/>
+    <file name="icon_insta-u9026-r-fr.png" crc="344911998" ref="audio"/>
+    <file name="icon_youtube-u9025-fr.png" crc="445376597" ref="audio"/>
+    <file name="icon_youtube-u9025-r-fr.png" crc="4281987019" ref="audio"/>
+    <file name="tiktk-u9029-fr.png" crc="10031886" ref="audio"/>
+    <file name="tiktk-u9029-r-fr.png" crc="4157285913" ref="audio"/>
   </folder>
-  <file name="index.html" crc="3933557827" seo="true" mt="1606288328813" redirect="true"/>
-  <file name="audio.html" crc="68587417" seo="true" mt="1606288629005" redirect="true"/>
+  <file name="index.html" crc="3779419253" seo="true" mt="1606290303048" redirect="true"/>
+  <file name="audio.html" crc="3963284440" seo="true" mt="1606289036679" redirect="true"/>
 </manifest>
