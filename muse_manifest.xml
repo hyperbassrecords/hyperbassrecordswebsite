@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606285791117">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606286315952">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -12,10 +12,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4041737661"/>
-    <file name="audio.css" crc="3957035863" ref="audio"/>
-    <file name="nomq_audio.css" crc="18323016" ref="audio"/>
-    <file name="index.css" crc="340562549" ref="index"/>
-    <file name="nomq_index.css" crc="4043746503" ref="index"/>
+    <file name="audio.css" crc="3916830339" ref="audio"/>
+    <file name="nomq_audio.css" crc="3853833969" ref="audio"/>
+    <file name="index.css" crc="3838754620" ref="index"/>
+    <file name="nomq_index.css" crc="382878133" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -40,11 +40,15 @@
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u3266.php" crc="428109245" ref="index"/>
-    <file name="form-u3557.php" crc="4267174424" ref="index"/>
+    <file name="form-u3557.php" crc="4152301514" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:audio"/>
     <file name="logow.png" crc="3978594632" ref="index">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
@@ -54,14 +58,10 @@
       <caption webpage="members-area" alt=""/>
       <caption webpage="members-area" alt=""/>
       <caption webpage="members-area" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
       <caption webpage="v-rave" alt=""/>
@@ -75,18 +75,18 @@
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="audio" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
     </file>
     <file name="003.jpg" crc="425010786" ref="index">
       <caption webpage="index" alt=""/>
@@ -411,6 +411,6 @@
     <file name="010-u3518-fr2.jpg" crc="288786371" ref="index"/>
     <file name="audio-favicon.ico" crc="3834575601" ref="audio"/>
   </folder>
-  <file name="index.html" crc="274324071" seo="true" mt="1606285777517" redirect="true"/>
-  <file name="audio.html" crc="284402171" seo="true" mt="1606285776265" redirect="true"/>
+  <file name="index.html" crc="51724535" seo="true" mt="1606286146087" redirect="true"/>
+  <file name="audio.html" crc="3961987682" seo="true" mt="1606286296435" redirect="true"/>
 </manifest>
