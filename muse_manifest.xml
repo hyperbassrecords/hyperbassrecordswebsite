@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606391219577">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1606391428001">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -14,8 +14,8 @@
     <file name="site_global.css" crc="420963724"/>
     <file name="audio.css" crc="3888525500" ref="audio"/>
     <file name="nomq_audio.css" crc="79825031" ref="audio"/>
-    <file name="index.css" crc="3880005671" ref="index"/>
-    <file name="nomq_index.css" crc="76992703" ref="index"/>
+    <file name="index.css" crc="3857468140" ref="index"/>
+    <file name="nomq_index.css" crc="374835086" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -54,21 +54,24 @@
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
       <caption webpage="audio" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
       <caption webpage="releases" alt=""/>
       <caption webpage="releases" alt=""/>
       <caption webpage="releases" alt=""/>
@@ -77,14 +80,11 @@
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="3834575601" ref="index"/>
     <file name="icon_insta-u1855-fr.png" crc="279588522" ref="index"/>
@@ -404,6 +404,6 @@
     <file name="tiktk-u9029-fr.png" crc="10031886" ref="audio"/>
     <file name="tiktk-u9029-r-fr.png" crc="4157285913" ref="audio"/>
   </folder>
-  <file name="index.html" crc="3913052000" seo="true" mt="1606391195188" redirect="true"/>
+  <file name="index.html" crc="353080621" seo="true" mt="1606391409031" redirect="true"/>
   <file name="audio.html" crc="4097388255" seo="true" mt="1606390188484" redirect="true"/>
 </manifest>
