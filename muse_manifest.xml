@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1607420390099">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1607420581675">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -46,45 +46,45 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:audio"/>
     <file name="logow.png" crc="4138781657" ref="index:audio">
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="buy" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
       <caption webpage="image" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="buy" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
       <caption webpage="audio" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
+      <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="3834575601" ref="index"/>
     <file name="icon_insta-u1855-fr.png" crc="279588522" ref="index"/>
@@ -404,6 +404,6 @@
     <file name="tiktk-u9029-fr.png" crc="10031886" ref="audio"/>
     <file name="tiktk-u9029-r-fr.png" crc="4157285913" ref="audio"/>
   </folder>
-  <file name="index.html" crc="3889217082" seo="true" mt="1607420374375" redirect="true"/>
+  <file name="index.html" crc="291995073" seo="true" mt="1607420565522" redirect="true"/>
   <file name="audio.html" crc="516020039" seo="true" mt="1607420068399" redirect="true"/>
 </manifest>
