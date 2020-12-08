@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'hello@yourmail.com',
-		'to' => 'hello@yourmail.com'
+		'from' => 'hyperbassrecord@yandex.com',
+		'to' => 'hyperbassrecord@yandex.com'
 	),
 	'fields' => array(
 		'Email' => array(
