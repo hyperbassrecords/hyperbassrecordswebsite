@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1607421777476">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperbassrecords.com" resolutions="1x" timestamp="1623290321919">
   <folder name="fonts">
     <file name="atarikids-regular.woff" crc="3773082163"/>
     <file name="atarikids-regular.eot" crc="4079274639"/>
@@ -14,8 +14,8 @@
     <file name="site_global.css" crc="4041737661"/>
     <file name="audio.css" crc="51352876" ref="audio"/>
     <file name="nomq_audio.css" crc="3930375006" ref="audio"/>
-    <file name="index.css" crc="158145724" ref="index"/>
-    <file name="nomq_index.css" crc="4045029223" ref="index"/>
+    <file name="index.css" crc="3903931361" ref="index"/>
+    <file name="nomq_index.css" crc="447198962" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -46,45 +46,45 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:audio"/>
     <file name="logow.png" crc="4138781657" ref="index:audio">
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="image" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
       <caption webpage="members-area-access-zone" alt=""/>
-      <caption webpage="audio" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
-      <caption webpage="v-rave" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="irl-shows" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
+      <caption webpage="members-area" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="irl-shows" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="v-rave" alt=""/>
+      <caption webpage="audio" alt=""/>
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
       <caption webpage="buy" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="members-area" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
-      <caption webpage="releases" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="3834575601" ref="index"/>
     <file name="icon_insta-u1855-fr.png" crc="279588522" ref="index"/>
@@ -97,7 +97,9 @@
     <file name="icon_youtube-u1859-r-fr.png" crc="8843994" ref="index"/>
     <file name="tiktk-u1858-fr.png" crc="244069417" ref="index"/>
     <file name="tiktk-u1858-r-fr.png" crc="362316957" ref="index"/>
-    <file name="1-u2052-fr.jpg" crc="4211087025" ref="index"/>
+    <file name="1-u2052-fr.jpg" crc="271889812" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="logow-u1975-3-fr.png" crc="394274073" ref="index:audio"/>
     <file name="mx-buttonu2173-fr.jpg" crc="4000380302" ref="index"/>
     <file name="hk-buttonu2230-fr.jpg" crc="271491337" ref="index"/>
@@ -293,7 +295,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="audio" alt=""/>
     </file>
-    <file name="1-u2052-fr2.jpg" crc="524969978" ref="index"/>
     <file name="logow-u1975-3-fr2.png" crc="3845610907" ref="index:audio"/>
     <file name="mx-buttonu2173-fr2.jpg" crc="224785207" ref="index"/>
     <file name="hk-buttonu2230-fr2.jpg" crc="4270670220" ref="index"/>
@@ -308,9 +309,6 @@
     <file name="008-u11413-fr2.jpg" crc="55324178" ref="index"/>
     <file name="010-u11449-fr2.jpg" crc="3760658597" ref="index"/>
     <file name="0011-u11467-fr2.jpg" crc="4269675221" ref="index"/>
-    <file name="1.jpg" crc="3961403847" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="mx-buttonu2173-fr3.jpg" crc="200793091" ref="index"/>
     <file name="hk-buttonu2230-fr3.jpg" crc="3923166858" ref="index"/>
     <file name="uk-buttonu2242-fr3.jpg" crc="35542646" ref="index"/>
@@ -325,7 +323,6 @@
     <file name="icon_youtube-u3738-r-fr2.png" crc="4255129271" ref="index"/>
     <file name="tiktk-u3739-fr.png" crc="299509093" ref="index"/>
     <file name="tiktk-u3739-r-fr2.png" crc="4182787996" ref="index"/>
-    <file name="1-u2052-fr3.jpg" crc="3772909666" ref="index"/>
     <file name="mx-buttonu2173-fr4.jpg" crc="4087461894" ref="index"/>
     <file name="hk-buttonu2230-fr4.jpg" crc="3852127127" ref="index"/>
     <file name="uk-buttonu2242-fr4.jpg" crc="4032477369" ref="index"/>
@@ -356,7 +353,6 @@
     <file name="bg-u3504-fr2.jpg" crc="442195865" ref="index"/>
     <file name="125202160_1677628479083921_19209742867202428_o-u3509-fr2.jpg" crc="3805361309" ref="index"/>
     <file name="010-u3518-fr.jpg" crc="174205272" ref="index"/>
-    <file name="1-u2052-fr4.jpg" crc="3845363540" ref="index"/>
     <file name="mx-buttonu2173-fr5.jpg" crc="3910655791" ref="index"/>
     <file name="hk-buttonu2230-fr5.jpg" crc="369394264" ref="index"/>
     <file name="uk-buttonu2242-fr5.jpg" crc="98914778" ref="index"/>
@@ -403,7 +399,8 @@
     <file name="icon_youtube-u9025-r-fr.png" crc="4281987019" ref="audio"/>
     <file name="tiktk-u9029-fr.png" crc="10031886" ref="audio"/>
     <file name="tiktk-u9029-r-fr.png" crc="4157285913" ref="audio"/>
+    <file name="1-u2052-fr-u2052-fr.jpg" crc="4197286102" ref="index"/>
   </folder>
-  <file name="index.html" crc="140476792" seo="true" mt="1607421708043" redirect="true"/>
+  <file name="index.html" crc="143915927" seo="true" mt="1623290298150" redirect="true"/>
   <file name="audio.html" crc="4228427088" seo="true" mt="1607421754456" redirect="true"/>
 </manifest>
